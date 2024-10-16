@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sushil321/react-project-travellist.git/static/css/main.9430e250.css",
+    "main.js": "/Sushil321/react-project-travellist.git/static/js/main.da806296.js",
+    "index.html": "/Sushil321/react-project-travellist.git/index.html",
+    "main.9430e250.css.map": "/Sushil321/react-project-travellist.git/static/css/main.9430e250.css.map",
+    "main.da806296.js.map": "/Sushil321/react-project-travellist.git/static/js/main.da806296.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9430e250.css",
+    "static/js/main.da806296.js"
+  ]
+}
