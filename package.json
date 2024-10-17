@@ -1,5 +1,5 @@
 {
-  "homepage":"https://github.com/Sushil321/react-project-travellist.git",
+  "homepage":"https://sushil321.github.io/react-project-travellist/",
   "name": "travel-list",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "start":"react-scripts start",
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "start": "react-scripts start",
