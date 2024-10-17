@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Sushil321/react-project-travellist.git/static/css/main.9430e250.css",
-    "main.js": "/Sushil321/react-project-travellist.git/static/js/main.da806296.js",
-    "index.html": "/Sushil321/react-project-travellist.git/index.html",
-    "main.9430e250.css.map": "/Sushil321/react-project-travellist.git/static/css/main.9430e250.css.map",
-    "main.da806296.js.map": "/Sushil321/react-project-travellist.git/static/js/main.da806296.js.map"
+    "main.css": "/react-project-travellist/static/css/main.9430e250.css",
+    "main.js": "/react-project-travellist/static/js/main.da806296.js",
+    "index.html": "/react-project-travellist/index.html",
+    "main.9430e250.css.map": "/react-project-travellist/static/css/main.9430e250.css.map",
+    "main.da806296.js.map": "/react-project-travellist/static/js/main.da806296.js.map"
   },
   "entrypoints": [
     "static/css/main.9430e250.css",
